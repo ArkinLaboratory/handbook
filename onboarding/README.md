@@ -12,15 +12,15 @@ Welcome to the Arkin Lab. Work through these in order.
 
 ## Week 1-2: AI Tools
 
-- [ ] Create a CBORG account and get an API key — see [CBORG Guide](../ai-resources/cborg.md)
-- [ ] Install Claude Desktop — see [Claude Setup](../ai-resources/claude-setup.md)
+- [ ] Create a CBORG account and get an API key — see [CBORG Guide](https://github.com/ArkinLaboratory/ai-skills-workshop/blob/main/ai-resources/cborg.md)
+- [ ] Install Claude Desktop — see [Claude Setup](https://github.com/ArkinLaboratory/ai-skills-workshop/blob/main/ai-resources/claude-setup.md)
 - [ ] (Optional) Get an Anthropic API key for programmatic access
 
 ## If Working with KBase / Lakehouse
 
 - [ ] Create a [KBase account](https://www.kbase.us/) with your ORCID
 - [ ] Enable MFA on your KBase account
-- [ ] Request lakehouse access — see [Lakehouse Guide](../data-platforms/kbase-lakehouse.md)
+- [ ] Request lakehouse access — see [KBase BER Lakehouse Onboarding](https://docs.google.com/document/d/1p2KZR0y6FDnsHEFYysLazm9R1YXuRSJQAurMacm09RE/edit)
 
 ## Hack-a-thon
 
