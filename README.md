@@ -25,7 +25,7 @@ The lab uses several AI platforms for research:
 - **Claude** — Direct API access for building AI skills and MCP servers.
 - **Berkeley Campus AI** ([ai.berkeley.edu](https://ai.berkeley.edu)) — UC Berkeley's shared AI research tools and resources.
 
-For detailed setup guides, API documentation, and workshop materials, see the [ai-skills-workshop repo](https://github.com/ArkinLaboratory/ai-skills-workshop).
+Detailed setup guides and API documentation are maintained in the [ai-skills-workshop repo](https://github.com/ArkinLaboratory/ai-skills-workshop/tree/main/ai-resources) (under `ai-resources/`).
 
 ## Section 3: Projects and Workshops
 
